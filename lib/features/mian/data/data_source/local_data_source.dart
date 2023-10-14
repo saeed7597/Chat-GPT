@@ -1,5 +1,4 @@
 import 'package:hive/hive.dart';
-import 'package:iran_gpt/features/mian/domain/entites/save_data_entity.dart';
 
 import '../models/save_data_model.dart';
 

@@ -1,10 +1,6 @@
-import 'dart:async';
-
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:iran_gpt/core/use_case/base_use_case.dart';
-import 'package:iran_gpt/features/mian/data/models/save_data_model.dart';
-import 'package:iran_gpt/features/mian/data/models/value_bbject/main_params_dto.dart';
 import 'package:iran_gpt/features/mian/domain/entites/main_entity.dart';
 import 'package:iran_gpt/features/mian/domain/entites/value_object/main_params.dart';
 
